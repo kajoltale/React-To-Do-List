@@ -1,0 +1,8 @@
+npm init
+sudo npm install -g create-react-app 
+create-react-app my-app 
+cd my-app/
+sudo npm install --save redux
+sudo npm install react-redux
+sudo npm install --save-dev redux-devtools
+npm start
